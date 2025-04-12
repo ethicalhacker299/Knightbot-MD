@@ -1,7 +1,7 @@
 const settings = {
   packname: 'Knight',
   author: 'Bot',
-  botName: "Knight Bot",
+  botName: "Ethical bot ",
   botOwner: 'Ethicalhacker299', // Your name
   ownerNumber: '08143502637', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
